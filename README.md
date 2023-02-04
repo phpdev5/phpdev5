@@ -1,5 +1,5 @@
 # 💫 About Me:
-PHP, Laravel, Vue, React
+Full stack developer
 
 
 # 💻 Tech Stack:
